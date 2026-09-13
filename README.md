@@ -1,7 +1,7 @@
 # Customer-Segmentation
 Customer segmentation using K-Means clustering with an interactive Streamlit prediction app.
 
-##Project Overview
+##Project Overview##
 The main aim of this project is to help improve marketing strategies by identifying different types of customers and enabling more personalized marketing campaigns and offers.
 
 The project analyzes customers features such as:
@@ -23,13 +23,13 @@ The identified customer segments are:
 -Old High Value Customers
 
 
-##Project Interpretation
+##Project Interpretation##
 Understanding different customer groups can help businesses make more targeted decisions, such as:
 -Identifying which customers would benefit from specific marketing campaigns
 -Identifying which customers should recieve offers first
 -Creating more personalized promotions based on customer behavior
 -Understanding differences in customer purchasing patterns
 
-##Interactive Prediction App
+##Interactive Prediction App##
 The project includes a Streamlit application where users can enter customer information and receive a predicted customer segment.
 The application uses the trained K-Means model and the same scaler used during training to assign the customer to the appropriate segment.
