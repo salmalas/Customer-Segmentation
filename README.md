@@ -1,6 +1,8 @@
 # Customer Segmentation
 
+
 A K-Means clustering project that segments retail customers into five behavioral groups based on demographics, spending, and purchase-channel activity. The trained model is deployed as an interactive Streamlit app that predicts a customer's segment from a handful of manually entered details.
+**🔗 Live app:** [(https://salmalas-customer-segmentation.streamlit.app/)]
 
 ## Dataset
 
